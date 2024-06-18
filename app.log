@@ -1,0 +1,12 @@
+{"custom_field":"custom_value","level":"info","method":"","msg":"Starting serever","request_id":"","time":"2024-06-17T23:05:50+05:30","user_id":""}
+{"custom_field":"custom_value","level":"info","method":"","msg":"Starting serever","request_id":"","time":"2024-06-17T23:07:55+05:30","user_id":""}
+{"custom_field":"custom_value","endpoint":"/users","level":"info","method":"","msg":"Handling POST /login request","request-id":"9011a9c2-2eb8-4d14-8989-7a05d898c246","request_id":"","time":"2024-06-17T23:07:57+05:30","user_id":""}
+{"custom_field":"custom_value","level":"info","method":"","msg":"Starting serever","request_id":"","time":"2024-06-17T23:12:59+05:30","user_id":""}
+{"custom_field":"custom_value","endpoint":"/users","level":"info","method":"","msg":"Handling POST /login request","request-id":"7d096639-1442-4cda-97ce-ee9c8a1d2815","request_id":"","time":"2024-06-17T23:13:02+05:30","user_id":""}
+{"custom_field":"custom_value","level":"info","method":"","msg":"Starting server","request_id":"","time":"2024-06-17T23:22:14+05:30","user_id":""}
+{"custom_field":"custom_value","endpoint":"/users","level":"info","method":"","msg":"Handling POST /login request","request-id":"2ab9e2d7-29b0-4d5e-8581-1e9b612ab1c7","request_id":"","time":"2024-06-17T23:22:17+05:30","user_id":""}
+{"custom_field":"custom_value","endpoint":"/users","level":"info","method":"","msg":"Created new user with ID: %d\n5","request-id":"c5bcbce5-ecf8-4ff4-9a29-740ebcf90b6f","request_id":"","time":"2024-06-17T23:22:20+05:30","user_id":""}
+{"custom_field":"custom_value","endpoint":"/users/:id","level":"info","method":"","msg":"Updated user with ID: %d\n33","request-id":"ee6a451a-daca-44bf-9fe5-a124ac8bafd7","request_id":"","time":"2024-06-17T23:22:37+05:30","user_id":""}
+{"custom_field":"custom_value","endpoint":"/users/:id","level":"info","method":"","msg":"Failed to fetch user with ID: %d\n33","request-id":"42bfaa79-b824-4fc9-af13-a70f430ca31d","request_id":"","time":"2024-06-17T23:22:49+05:30","user_id":""}
+{"custom_field":"custom_value","level":"info","method":"","msg":"Starting server","request_id":"","time":"2024-06-17T23:23:16+05:30","user_id":""}
+{"custom_field":"custom_value","endpoint":"/users/:id","level":"error","method":"","msg":"Failed to fetch user with ID: %d\n33","request-id":"2f21e090-4bea-4946-a666-3e47e82d3bd1","request_id":"","time":"2024-06-17T23:23:18+05:30","user_id":""}
